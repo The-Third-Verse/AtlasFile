@@ -1647,7 +1647,7 @@ return {
           [[Feli est facilement identifiable par son cratère massif et profond. En dehors du cratère, l'étude géologique de l'Arche révèle une planète assez fade et uniforme, mais ne peut expliquer l'existence du cratère. Feli a la particularité d'avoir une atmosphère extrêmement fine, permettant à la vie de se développer dans les zones profondes de son cratère mais la limitant drastiquement à la surface.]],
           [[Feli ist leicht an seinem massiven und tiefen Krater zu erkennen. Außerhalb des Kraters berichtet die geologische Untersuchung des Archenschiffes von einem ziemlich faden und gleichförmigen Planeten, sie kann auch die Existenz des Kraters nicht erklären. Feli zeichnet sich durch eine extrem geringe Atmosphäre aus, die die Entwicklung von Leben in den tieferen Bereichen des Kraters ermöglicht, es aber auf der Oberfläche drastisch einschränkt]]
         },
-        iconPath = "https://du-front.thethirdverse.net/image/db0525b97286a3bd8ff7b8b6b48696e3432737a6-Feli2.png",
+        iconPath = "https://du-front.thethirdverse.net/image/69ede6db1bc042234416fc42607e978ece82a12d-feli.png",
         hasAtmosphere = true,
         isSanctuary = false,
         isInSafeZone = false,
@@ -1679,7 +1679,7 @@ return {
           [[Ion n'est rien de plus qu'un glaçon surdimensionné gelé de part en part. C'est une planète largement inhospitalière en raison de ses températures extrêmement basses. L'étude géologique de l'Arche rapporte un terrain montagneux extrêmement accidenté avec peu de terres habitables.]],
           [[Ion ist nichts weiter als ein überdimensionaler Eiswürfel, der durch und durch gefroren ist. Aufgrund seiner extrem niedrigen Temperaturen ist er ein weitgehend unwirtlicher Planet. Die geologische Untersuchung des Archenschiffes berichtet von extrem rauem, gebirgigem Gelände mit wenig bewohnbarem Land.]]
         },
-        iconPath = "https://du-front.thethirdverse.net/image/f5b6d6077b7e794aacdd8bcbc9cb77a822ca04fc-ion2.png",
+        iconPath = "https://du-front.thethirdverse.net/image/23e6078517a780af599a3232aba1e6d1071f94c3-ion.png",
         hasAtmosphere = true,
         isSanctuary = false,
         isInSafeZone = false,
@@ -1711,7 +1711,7 @@ return {
           [[Symeon est une planète de glace mystérieusement séparée à l'équateur par une bande de désert solide. On ne sait pas exactement comment ce phénomène est possible, mais une sorte d'anomalie météorologique pourrait en être responsable. L'étude géologique de l'Arche rapporte un mélange assez diversifié de terres plates et de formations montagneuses.]],
           [[Symeon ist ein Eisplanet, der auf mysteriöse Weise am Äquator durch ein Band aus fester Wüste gespalten ist. Wie genau dieses Phänomen möglich ist, ist unklar, aber eine Art Wetteranomalie könnte dafür verantwortlich sein. Die geologische Untersuchung des Archenschiffes berichtet von einer ziemlich vielfältigen Mischung aus Flachland und Gebirgsformationen.]]
         },
-        iconPath = "https://du-front.thethirdverse.net/image/ca0ec20e33d5f1c63b8359e8dba25364a5476b93-symeon2.png",
+        iconPath = "https://du-front.thethirdverse.net/image/fb1caa86872b86be2a4315a77ab1158cc70f000c-symeon.png",
         hasAtmosphere = true,
         isSanctuary = false,
         isInSafeZone = false,
@@ -1743,7 +1743,7 @@ return {
           [[Lacobus est une planète de glace qui présente également de grandes étendues d'eau. L'étude géologique de l'Arche fait état d'océans profonds et d'un environnement montagneux gelé et rugueux. Lacobus semble présenter une activité géothermique régionale permettant la présence d'eau à la surface.]],
           [[Lacobus ist ein Eisplanet, der auch große Wassermassen aufweist. Die geologische Untersuchung des Archenschiffes berichtet von tiefen Ozeanen neben einer gefrorenen und rauen bergigen Umgebung. Lacobus scheint eine regionale geothermische Aktivität aufzuweisen, die das Vorhandensein von Wasser an der Oberfläche ermöglicht.]]
         },
-        iconPath = "https://du-front.thethirdverse.net/image/cf5f898c44be54eddaa28a9df112cdbf6b623b4f-Lacobus.png",
+        iconPath = "https://du-front.thethirdverse.net/image/4748218e8fc9b5be06428194ffc7b308b053fd23-lacobus.png",
         hasAtmosphere = true,
         isSanctuary = false,
         isInSafeZone = false,
@@ -1765,3 +1765,4 @@ return {
     }
   }
 }
+
