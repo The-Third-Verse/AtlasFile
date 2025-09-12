@@ -11,6 +11,14 @@ How to use Updated Atlas File
  end)
 ```
 
+or more use this safe load method that will load the original atlas if custom atlas do not exists
+```
+local s, atlas = pcall(require, "autoconf/custom/atlas")
+if not s then
+    atlas = require("atlas")
+end
+```
+
 Explanation: 
 When Lua requires a file from a folder, it first checks if the file has already been loaded by the script. It does this by looking into ```package.preload['file_name']```, which is a table that can be modified. In this case, we are adding our custom atlas file to that table, allowing Lua to load your custom version instead of the default one provided by NQ.
  
